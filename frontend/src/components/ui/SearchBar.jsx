@@ -26,6 +26,7 @@ const SearchBar = ({ onSearch }) => {
         <option value="50">50 miles</option>
       </select>
       <button type="submit">Search</button>
+      <button>Sign Up</button>
     </form>
   );
 };
